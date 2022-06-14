@@ -1,5 +1,6 @@
-# Multiple projects can live within a single productions
-##### [[Adobe Productions Reference]] > Multiple _projects_ can live within a single _productions_ | 06-14-2022
+---
+title: "{{title}}"
+---
 
 > Individual editors can group related projects for improved organization and efficiency. Large projects (documentaries, films, TV) can be broken into reels or episodes where multiple editors collaborate according to their preferred workflow using shared storage network.
 

@@ -1,5 +1,6 @@
-# Prepping Productions
-##### [[Adobe Productions Reference]] > Prepping Productions | 06-14-2022
+---
+title: "{{title}}"
+---
 
 	- [[In order to prevent your Workspace settings from changing, follow Adobe's steps]]
 	- [[Unlike preferences, Production settings apply to everyone who interacts with the Production]].

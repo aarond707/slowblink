@@ -1,5 +1,6 @@
-# In order to prevent your Workspace settings from changing, follow Adobe's steps
-##### [[Adobe Productions Reference]] > In order to prevent your Workspace settings from changing, follow Adobe's steps | 06-14-2022
+---
+title: "{{title}}"
+---
 
 > Set up the following preferences in the Edit > Preferences (Windows) or Premiere Pro > Preferences (macOS) dialog box.
 > -   In Preferences > Media, deselect the following options:

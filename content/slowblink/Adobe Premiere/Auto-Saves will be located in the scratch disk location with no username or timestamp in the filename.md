@@ -1,5 +1,6 @@
-# Auto-Saves will be located in the scratch disk location with no username or timestamp in the filename
-##### [[Adobe Productions Reference]] > Auto-Saves will be located in the scratch disk location with no username or timestamp in the filename | 06-14-2022
+---
+title: "{{title}}"
+---
 
 The default value for all the scratch disks settings is Same as Production. It means that the folder that contains your production folder also contains your scratch disk folders. For editorial teams collaborating on shared storage, it is important that the scratch disk folders be set to a shared location that all edit systems can see.
 

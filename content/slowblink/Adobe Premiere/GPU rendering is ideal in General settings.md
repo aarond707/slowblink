@@ -1,5 +1,6 @@
-# GPU rendering is ideal in General settings
-##### [[Adobe Productions Reference]] > GPU rendering is ideal in General settings | 06-14-2022
+---
+title: "{{title}}"
+---
 
 > The renderer setting applies to all systems that are working in the production. For situations where a particular system cannot match the exact renderer specified in the production settings, Premiere Pro choose the closest renderer available.
 

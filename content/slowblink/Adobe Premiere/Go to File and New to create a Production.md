@@ -1,7 +1,6 @@
-# Go to File and New to create a Production
-##### [[Adobe Productions Reference]] > Create a Production file in Premiere | 06-14-2022
-
-## Create a production
+---
+title: "{{title}}"
+---
 
 ![Create a production](https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/production-panel/jcr_content/main-pars/multi_column_975798391/col-50-50-c2/image/new_production_final.png.img.png "Create a production")
 

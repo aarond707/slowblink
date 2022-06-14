@@ -1,5 +1,6 @@
-# Click File and Open Production to open a Production
-##### [[Adobe Productions Reference]] > Click File and Open Production to open a Production | 06-14-2022
+---
+title: "{{title}}"
+---
 
 ## Open a production
 > Do one of the following steps:
