@@ -2,7 +2,5 @@
 title: slowblink.io
 ---
 
-things i've found and things i've made
-
-## content
+## my stuff
 - [adobe premiere](slowblink/adobe%20premiere.md)
