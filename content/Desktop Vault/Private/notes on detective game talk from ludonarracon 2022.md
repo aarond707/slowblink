@@ -1,0 +1,19 @@
+- they don't necessarily ask for process; they ask for outcome
+	- obra dinn just wants the answers. outer wilds just needs you to prove your understanding.
+	- "combinatorial explosion" is a term [[Mark Brown]] used for what [[Lucas Pope]] does in [[Return of the Obra Dinn]] in having a combination lock that the [[player]] has to answer correctly.
+- learning more of the story should empower the player
+	- [[Lucas Pope]] made his game around the compulsion to fill in a list.
+- What are different types of lists? 
+	- In [[Victor Breum]]'s game you're filling in holes in memories.
+- When the [[player character]] makes notes, the [[player]] stops.
+- pixel-hunting is not interesting
+- the issue of focusing information in [[Return of the Obra Dinn]] was done with small spaces, the murders being the focal point, and bonus details away from the focal-point.
+- momentum is built in obra dinn by having solutions narrow possibilities.
+- the search bar method from sam barlow's games is another cool way to test players
+- detective games and puzzle-solving vs problem-solving
+	- problem-solving asks the players to create their own solution, but most detective games are puzzle-solving.
+	- how can detective games be more about problem-solving? how can players construct their own solution?
+- ideas
+	- bellingcat investigations of warzones as a type of game
+	- voyeurism and uncovering secrets is motivating
+	- 

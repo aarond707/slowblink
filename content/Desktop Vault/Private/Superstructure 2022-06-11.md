@@ -1,0 +1,1 @@
+Qodot has an entity system that automatically exports entities to Godot from Trenchbroom, including lights as a demo. The lights didn't work until I disabled baking, which is something I should keep in mind unless I'm doing baked lights. I may at some point, but not yet.

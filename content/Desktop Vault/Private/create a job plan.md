@@ -1,0 +1,18 @@
+- Resume for Editing Job
+	- Scott's Reference Resume
+		- Selected Credits Section
+			- Bravoblogs
+			- Tutorial Videos
+				- Using Google Classroom
+				- Using iPads
+				- Using Zoom
+			- Web Shorts
+				- Mission Force Bravo
+				- How to make spaghetti
+			- Fairburn Phoenix News
+			- EXID stuff
+				- Remedy
+				- Indemnity
+				- Sage Wisdom
+			- Audio and Music Production
+[[!!!]]

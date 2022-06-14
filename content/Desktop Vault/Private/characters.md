@@ -1,0 +1,1 @@
+Thoughts on how to write characters should go in [[writing characters]].

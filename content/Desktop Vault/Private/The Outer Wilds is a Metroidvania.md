@@ -1,0 +1,3 @@
+[[The Outer Wilds]] is a Metroidvania in structure which uses knowledge and understanding as "keys" for progression rather than more literal keys or abilities for traversal. Spaces are only "locked" to the [[player]] because the [[player]] does not have the understanding required to see the space exists or to get there.
+
+The Outer Wilds, like The [[Return of the Obra Dinn]], is an example of how [[the best detective games are not technically detective games]]

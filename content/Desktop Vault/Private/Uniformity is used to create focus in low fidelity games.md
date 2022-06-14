@@ -1,0 +1,1 @@
+Lower detail characters , such as those in [[Suikoden II]], are uniform because that allows you to recognize main characters who are different, even if it's just in hair color.

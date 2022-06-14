@@ -1,0 +1,3 @@
+The strafe state is only overridden when the mech is in a [[neutral state]], in which the mech can be shifted into its [[walk state]], or by a shift to [[grapple state]], which cancels it.
+
+Strafing is throttled, and to reach [[neutral state]] must be throttled all the way down. [[mech bobbing]] should also be triggered by the strafing state, and can likely be controlled by a [[boolean]] triggered by a signal.

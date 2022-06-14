@@ -1,0 +1,1 @@
+Actions are the things a [[player]] does in [[gameplay]].

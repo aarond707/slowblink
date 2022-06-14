@@ -1,0 +1,1 @@
+Good work is the toil that feeds humanity and life. It is [[what we could do without jobs]]. [[capitalism]] grinds us into dust and prevents us from taking care of ourselves and each other.

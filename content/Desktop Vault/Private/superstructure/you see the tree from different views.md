@@ -1,0 +1,1 @@
+as you ascend to higher elevations in [[Elden Ring]], you see the tree from different views. seeing it close from the ground isn't the same as seeing it close from the sky.

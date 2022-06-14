@@ -1,0 +1,24 @@
+# MDQ22 Hot Sheets
+- [Shoot Breakdown](https://docs.google.com/spreadsheets/d/1lHiCdBHDt8kUISiz-kKxf-HsD4tG7SpfLeXGgNTjJk4/edit?usp=sharing)
+- Shoot Week 1
+	- [2022-05-07](https://docs.google.com/document/d/1JukZFTIHAASuVPBIPTFRV6DQpcPR3Jcz/edit)
+	- [2022-05-08](https://docs.google.com/document/d/1D30RpUxz87zxkRGYTSSsB0DkokAY7E4R/edit)
+	- [2022-05-09](https://docs.google.com/document/d/19XY8JHCGZrDiS_6qXBUgV3f_sz_7Wz7S/edit)
+- Shoot Week 2
+	- [2022-05-12](https://docs.google.com/document/d/1le13p4RaDV-6demElL6inFk6OaVUc1tR/edit)
+	- [2022-05-13](https://docs.google.com/document/d/10xODJaofEaHTaM7QtZc3M350ZgrduGR-/edit)
+	- [2022-05-14](https://docs.google.com/document/d/1UWlIjXiS9FjWjLAhmQgdu1XeMhEzzQmH/edit)
+	- [2022-05-15](https://docs.google.com/document/d/1lwVwd6hi6tWK01kDiaJnvrlcUQBKGa7s/edit)
+	- [2022-05-16](https://docs.google.com/document/d/13Xkhsg_QnYf42WlpdquPjk9FSuIFDkYe/edit)
+- Shoot Week 3
+	- [2022-05-19](https://docs.google.com/document/d/1CJvFXLyRjaszbZ9Uw08nlhupQFCBg225/edit)
+	- [2022-05-20](https://docs.google.com/document/d/1OLlB7fuOPa0OWaMxKWDThzfOkRKEC-lC/edit)
+	- [2022-05-21](https://docs.google.com/document/d/1yS3Q3T2MYJabk2geKOBL4GvwfIyNu582/edit)
+	- [2022-05-22](https://docs.google.com/document/d/1JKvFFN-nR7JhghfZicb1jpbCDYL7g2Wv/edit)
+	- [2022-05-23](https://docs.google.com/document/d/1j5Y9IAfRlmwwxHkDe4pFelcal24QIWkT/edit)
+- Shoot Week 4
+	- [2022-05-26](https://docs.google.com/document/d/1XcoM6gTSmXarFcIy2o9uD26SFrOUpATy/edit?usp=drive_web&ouid=107556398929640830376&rtpof=true)
+	- [2022-05-27](https://docs.google.com/document/d/19aLhPqr26Ml5ctTeCTe6h0KGFViQjyie/edit)
+	- [2022-05-28](https://docs.google.com/document/d/11ykX2ZRfQEsXVf4pnZVcKVM_hvsnkd-C/edit?usp=drive_web&ouid=107556398929640830376&rtpof=true)
+	- [2022-05-29](https://docs.google.com/document/d/1g1K51htx-_mBGvvEocOv28uTYnPDD8se/edit?usp=drive_web&ouid=107556398929640830376&rtpof=true)
+	- [2022-05-30](https://docs.google.com/document/d/1sORc9tuNbR0r-L4MZOASKj2ZZbhATpN6/edit?usp=drive_web&ouid=107556398929640830376&rtpof=true)

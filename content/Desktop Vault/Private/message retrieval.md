@@ -1,0 +1,3 @@
+To retrieve messages in [[superstructure]], you have to retrieve them through different media. Sometimes it's a heat scanner, sometimes analyzing waveforms. You're answering interpretive questions have the things you're experiencing, and that is message retrieval. 
+
+Then you must transmit the message to others using one of the forms of media transmission, but it's always an abstract and imprecise tool. You pull from [[abstraction]], and you give back to [[abstraction]].

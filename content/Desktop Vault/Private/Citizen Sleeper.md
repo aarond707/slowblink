@@ -1,0 +1,1 @@
+Citizen Sleeper is a video game created by Gareth Damian Martin, who also created the game In Other Waters. It is about surviving in the [[ruins of capitalism]], explicitly in fact as he said in his LudoNarraCon interview with [[Austin Walker]].

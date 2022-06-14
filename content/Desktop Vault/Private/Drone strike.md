@@ -1,0 +1,1 @@
+The drone strike is the new symbol of imperial american power in the 21st century. It is how we use [[violence]] anywhere in the world without responsibility and without direct obvious risk. There are, of course, other risks and other forms of blowback, but we use the drone strike to show the [[little ones]] that they should fear our empire.

@@ -1,0 +1,3 @@
+`At Standing Rock, I learned that resistance was and is part of the Native American tradition for survival as indeed it has been for black people, as it is today for Palestinians, Puerto Ricans, and other people of color, women, and the LGBTQ community.` ([Location 278](https://readwise.io/to_kindle?action=open&asin=B07XSGL8YX&location=278)[[Private/Readwise/Books/The Assassination of Fred Hampton]])
+  
+  Intersectional alliances among oppressed people is the only way to a better word. These are all groups which are targeted the most by [[police]]. [[Police exist to make sure they don't get TOO rowdy]].

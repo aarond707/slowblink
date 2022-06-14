@@ -1,0 +1,77 @@
+{
+  "firstRun": false,
+  "initialized": [
+    {
+      "path": "/",
+      "initialized": true
+    },
+    {
+      "path": "superstructure",
+      "initialized": true
+    }
+  ],
+  "trackedProjects": [
+    "/",
+    "superstructure"
+  ],
+  "checkpointList": [
+    {
+      "path": "/",
+      "date": "2022-06-14",
+      "size": 391262
+    },
+    {
+      "path": "superstructure",
+      "date": "2022-06-14",
+      "size": 1287
+    }
+  ],
+  "activityHistory": [
+    {
+      "path": "/",
+      "size": [
+        {
+          "date": "2022-05-07",
+          "value": 8035
+        },
+        {
+          "date": "2022-05-08",
+          "value": 8787
+        },
+        {
+          "date": "2022-05-09",
+          "value": 18692
+        },
+        {
+          "date": "2022-05-10",
+          "value": 5708
+        },
+        {
+          "date": "2022-05-11",
+          "value": 8073
+        },
+        {
+          "date": "2022-06-14",
+          "value": 199919
+        }
+      ]
+    },
+    {
+      "path": "superstructure",
+      "size": [
+        {
+          "date": "2022-06-14",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "activityColor1": "#c6e48b",
+  "activityColor2": "#7bc96f",
+  "activityColor3": "#239a3b",
+  "activityColor4": "#196127",
+  "textColor": "#000000",
+  "emptyColor": "#ecedf0",
+  "cellRadius": 1,
+  "type": "monthly"
+}

@@ -1,0 +1,1 @@
+[Dialogic - Dialogue editor - Godot Asset Library](https://godotengine.org/asset-library/asset/833) is a tool for implementing dialog in Godot.

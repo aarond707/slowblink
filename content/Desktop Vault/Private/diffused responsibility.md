@@ -1,0 +1,3 @@
+In [[Private/Readwise/Books/Walkaway]], diffused responsibility is the truth lying behind most [[conspiracy theories]] where evil people scheme to ruin the world when the truth is more banal. They don't need to make secret schemes when they share diffused responsibility playing a game that always results in evil.
+
+This concept is key to understanding the systemic evils of [[capitalism]] and imperialism.

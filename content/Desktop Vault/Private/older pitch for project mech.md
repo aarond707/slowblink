@@ -1,0 +1,1 @@
+>[[superstructure]] is a game where the [[player]] is a mech operator. not quite a pilot. the mechs and their operators are collectively called "repeaters", and their role is to "repeat" [[signals]] that they intercept from other repeaters and to move them to where they can be repeated down the line to their destination, ideally.

@@ -1,0 +1,1 @@
+Front Mission is a tactics [[JRPG]] where you control [[Mech]] and their pilots.

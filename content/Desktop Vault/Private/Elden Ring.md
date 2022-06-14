@@ -1,0 +1,10 @@
+# Elden Ring
+## Overview
+Elden Ring was created by [[FromSoftware]], released in 2022, and is a spiritual successor to the Dark Souls series which sees the player becoming more powerful to take an abstract position of power while encountering various actors of different factions and ideologies who are themselves vying for that power or who have pledged to others who are vying for it. [[elden ring characters are defined by their relationships to the powers above them]].
+## The Fiction
+Like the Dark Souls series and many [[FromSoftware]] games prior, item descriptions and subtle dialogs are the fabric of the narrative which the player is left to stitch together at their leisure. This both allows players to dive directly into the action if they prefer and gives fans of the fiction a lot to chew on, especially in repeated playthroughs. Events such as [[The Night of the Black Knives]] are alluded to, and later the player can acquire a weapon called the [[Black Knife]] with a shoirt description to learn from. There are no codex entry push notifications like some games might use for their lore, but the information is there.
+
+## Design
+[[elden ring level design]] in its open world is different from many other open world games and more of an extrapolation of the dungeon design that [[FromSoftware]] is known for in their previous games. [[elden ring hides the next highest peaks]] using carefully designed sightlines to show the player goals early on while concealing late-game secrets. The Erdtree is a fixture from the first moment the player enters the open world [[playspaces (gameplay)]]. In Elden Ring, [[you see the tree from different views]] as you progress in ways that feel meaningful.
+
+[[The world of elden ring is one ecosystem of three worlds]] which have elemental and deeply thematic significance.

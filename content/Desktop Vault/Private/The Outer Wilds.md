@@ -1,0 +1,1 @@
+The Outer Wilds is a game about experience and reflection. It is a [[detective]] game where you answer your questions by experimenting and learning and apply knowledge of how the universe works to navigate that universe. You don't prevent its death, but you get to experience its rebirth if you finish the journey. Ultimately it is not about choice but the choice to experience.

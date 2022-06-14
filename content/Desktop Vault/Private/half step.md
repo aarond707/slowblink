@@ -1,0 +1,1 @@
+A half step is a [[semitone]].
