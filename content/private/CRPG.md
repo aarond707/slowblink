@@ -1,1 +1,0 @@
-These are traditionally PC roleplaying games that have direct links to [[Dungeons & Dragons]], as is the case with [[Baldur's Gate]] from [[Bioware]] 

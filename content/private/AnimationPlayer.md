@@ -1,1 +1,0 @@
-AnimationPlayer is a [[node]] type in [[Godot]] which controls movement and has inputs and outputs for animation states. It can be used for a lot of scripting.

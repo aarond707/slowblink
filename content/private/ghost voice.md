@@ -1,1 +1,0 @@
-record a track with vocals, and do a bootleg vocal removal by inverting the phase, but do this with augmented vocals

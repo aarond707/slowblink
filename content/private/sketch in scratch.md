@@ -1,1 +1,0 @@
-Sketch some game ideas in Scratch to make some small prototypes

@@ -1,1 +1,0 @@
-The ruins of capitalism is a concept explored by [[Godspeed You! Black Emperor]], [[Citizen Sleeper]], [[Kentucky Route Zero]], [[Private/Readwise/Books/Walkaway]], and many other works of art and fiction.

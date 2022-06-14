@@ -1,3 +1,0 @@
-I want to [[create a job plan]] and [[talk to a career coach]].
-
-Turns out I didn't need to do that at all and just got a new job through Scott (again!). Regardless, I should still have a resume and career arc planned out so that I don't just back myself into another corner. I got too comfortable for too long, and as much as I tell Ryan that putting yourself into a difficult corner is not the way to go, it's impossible to see through the comfort.

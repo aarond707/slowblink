@@ -1,1 +1,0 @@
-Ink is a scripting language specifically made for branching dialog in games. It can plug in to editors, such as [[Godot]], and it can be useful depending on how we do things.

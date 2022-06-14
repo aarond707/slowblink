@@ -1,8 +1,0 @@
-# our wanton consumption is appalling
-##### The Dispossessed > our wanton consumption is appalling | 05-07-2022
-
-`“Your clothes? I had them cleaned—sterilized. I hope you don’t mind, sir—” He investigated a wall panel Shevek had not discovered and brought out a packet wrapped in pale-green paper. He unwrapped Shevek’s old suit, which looked very clean and somewhat reduced in size, wadded up the green paper, activated another panel, tossed the paper into the bin that opened, and smiled uncertainly. “There you are, Dr. Shevek.” “What happens to the paper?” “The paper?” “The green paper.” “Oh, I put it in the trash.” “Trash?” “Disposal. It gets burned up.” “You burn paper?”` ([Location 191](https://readwise.io/to_kindle?action=open&asin=B000FC11GA&location=191))
-  
-  From the outside in, the waste we produce from our wanton consumption is appalling and confusing. It's shameful. You don't want to look at it or think about it. The only thing you can do, if you're not going to stop committing the crime, is commit it again and again and tell yourself every time that it's something else. It's not a crime. It's a ritual.
-
-`“The clothes are burned?” “Oh, those are cheap pajamas, service issue—wear ’em and throw ’em away, it costs less than cleaning.” “It costs less,” Shevek repeated meditatively. He said the words the way a paleontologist looks at a fossil, the fossil that dates a whole stratum.` ([Location 206](https://readwise.io/to_kindle?action=open&asin=B000FC11GA&location=206))

@@ -1,1 +1,0 @@
-Clocks are a mechanic I became aware of through [[BitD (Blades in the Dark)]], since it is built around them. Other games, such as [[Ironsworn]] and [[Citizen Sleeper]] also use clocks a lot.

@@ -1,1 +1,0 @@
-Goals are among the [[six basic elements of games]]. In Doom it is to kill all the demons until you're done killing demons. In Phoenix Wright it is to solve the case. 

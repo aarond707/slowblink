@@ -1,1 +1,0 @@
-Richard Nixon was a grade A piece of shit and it's good that he's dead.

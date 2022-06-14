@@ -1,1 +1,0 @@
-If it weren't for jobs we could actually get some work done. Jobs are the [[violence]] we inflict on our own spirits to satisfy our masters. When they achieve [[good work]], it is incidental, not purposeful.

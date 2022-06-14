@@ -1,1 +1,0 @@
-Playspaces are one of the [[six basic elements of games]]. The playspaces of [[STALKER]] are 3D environments that the player walks through and survives in through combat, but the inventory UI is also a kind of playspace, arguably.

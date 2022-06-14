@@ -1,2 +1,0 @@
-Anarchism has been defined as “the philosophy of a new social order based on liberty unrestricted by man-made law; the theory that [[all forms of government rest on violence]], and are therefore wrong and harmful, as well as unnecessary.”8 As ([Location 206](https://readwise.io/to_kindle?action=open&asin=B076CMV9RX&location=206))
-	- Nonviolence is the cornerstone of anarchism, but this idea of it.

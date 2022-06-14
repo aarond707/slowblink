@@ -1,1 +1,0 @@
-We were emailed a link to the [spec sheet](https://www.quicksite.io/viacom-nppoguides/channel/long-form-guidelines). I want to download the PDF and store it locally as well.

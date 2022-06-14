@@ -1,1 +1,0 @@
-Mouse still controls head, but not body. So we decouple the y rotation from the whole controller, but make it rotate the head. The body turns on the y axis to follow and the crosshair and raycast rotates on the x.

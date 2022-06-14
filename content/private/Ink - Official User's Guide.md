@@ -1,1 +1,0 @@
-I want to use Ink for scripting dialog and potentially for prototyping whole game concepts depending on how much it can do on its own. I also want to plug it into [[Godot]] if possible.

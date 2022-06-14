@@ -1,3 +1,0 @@
-Hum
-Buzz
-Hiss

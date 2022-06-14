@@ -1,1 +1,0 @@
-[[Private/Readwise/Books/An American Anarchist]] says anarchism claims that all forms of government rest on [[violence]]. [[the necessity of jobs is a threat of violence]] to all who don't participate in state-sanctioned activity.

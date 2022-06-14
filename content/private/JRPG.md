@@ -1,1 +1,0 @@
-I've had trouble getting into the JRPG genre, but there are some recent games I've been very drawn to. [[Triangle Strategy]] is one, and [[final fantasy xii]] is another, with its strange and interesting gambit system. The only other game series I've played that does something like that is [[Pillars of Eternity]].

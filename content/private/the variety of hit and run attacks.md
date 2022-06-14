@@ -1,1 +1,0 @@
-Drive by. Raid. Hit and run attack. [[Drone strike]]. The difference is on levels of scale. It's an attack without long term commitment. Long range attacks.

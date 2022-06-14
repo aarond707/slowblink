@@ -1,1 +1,0 @@
-Ironsworn is a [[ttrpg]] which can be played solo or co-op. It's an important game to be because of what it does without requiring the planning and authority structure that's assumed to be necessary in the [[Dungeons & Dragons]] model.

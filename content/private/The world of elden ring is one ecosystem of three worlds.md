@@ -1,1 +1,0 @@
-The world of [[Elden Ring]] is one ecosystem of three worlds. Heaven, earth, and beneath the earth. The eternal cities mirror the heavens with their faux starry skies.

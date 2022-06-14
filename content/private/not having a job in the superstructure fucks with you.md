@@ -1,1 +1,0 @@
-When you're not working in the [[superstructure (concept)]] - or rather, when you don't have a [[job]] in the [[superstructure]] - it fucks with your sense of self-worth. [[capitalism]] trains us to assign ourselves value, and everyone else, based on the value that can be extracted from you.

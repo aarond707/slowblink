@@ -1,1 +1,0 @@
-[[Private/Readwise/Articles/Are signals just function calls between scripts]]

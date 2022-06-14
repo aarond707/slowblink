@@ -1,1 +1,0 @@
-Our cruelty to unhoused people is a genocide for which there has not yet been a reckoning. [[capitalism]] depends on unhoused people existing as a threat to everyone who works within capitalism; the state will kill you if you do not play along, and it uses [[police]], a segment of the [[little ones]] who inhabit the world, to carry out this violence.

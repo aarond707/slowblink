@@ -1,3 +1,0 @@
-When NPCs and player characters interact with the game world with the same scope of powers and limits, the NPCs in the world feel more alive. [[A-Life from STALKER]] differentiates the game from most other games by making characters move through the world in ways that the player does for reasons the player does, but is still more of an emulation of [[player]] behavior rather than true competition where the computer plays by the same ruleset the [[player]] follows.
-
-This could be emulated in some way in [[superstructure]], whether in a real time or turn-based manner.

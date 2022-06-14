@@ -1,1 +1,0 @@
-Dark Souls is a series of game by [[FromSoftware]] that I reference a lot.

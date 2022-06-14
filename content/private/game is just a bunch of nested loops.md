@@ -1,1 +1,0 @@
-This is the idea that a game can be designed using [[clocks]] as its fundamental framework. [[Citizen Sleeper]] does this wonderfully.

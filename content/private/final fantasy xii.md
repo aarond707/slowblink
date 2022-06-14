@@ -1,1 +1,0 @@
-Final Fantasy XII is a [[JRPG]], and one with pretty cool [[architecture]].

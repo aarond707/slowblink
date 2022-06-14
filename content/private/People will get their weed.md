@@ -1,2 +1,0 @@
-Anyone who has ever designed a rule for children knows that human beings do not behave the way the lawgiver would like them to behave — they behave pragmatically according to their values and incentives. ([Location 290](https://readwise.io/to_kindle?action=open&asin=B00IM5EM7W&location=290)[[Private/Readwise/Books/Polystate]])
-	- This is true, and I'm not even sure if it's cynical. It reads as such to me, at first, but I want to read the rest of the argument here.

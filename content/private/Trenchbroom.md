@@ -1,1 +1,0 @@
-Trenchbroom is a level design tool for Quake maps and similar games. It is what I want to use for [[superstructure]] level design, both for its experiors and interiors since I can use [[Qodot]] to import maps from Trenchbroom to [[Godot]].

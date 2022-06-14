@@ -1,1 +1,0 @@
-Blades in the Dark is a [[fiction-first]] [[ttrpg]] following in the tradition of [[PbtA (Powered by the Apocalypse)]], a prime example of a [[clock-driven game]].

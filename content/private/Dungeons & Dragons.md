@@ -1,1 +1,0 @@
-D&D is the culturally dominant [[ttrpg]], and this is shapes popular expectations of what a ttrpg is. Thankfully, many games out there are breaking that mold, but it has still shaped much of [[CRPG]] design as well.

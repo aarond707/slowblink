@@ -1,1 +1,0 @@
-Use the essential elements of [[games]] from [[Games, Design and Play (2016)]] and create lists of examples for each element. Also use these lists to compare competing ideas for elements.
